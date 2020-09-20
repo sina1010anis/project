@@ -1,3 +1,3 @@
 function f() {
-    alert('1.01')
+    alert('1.05')
 }
